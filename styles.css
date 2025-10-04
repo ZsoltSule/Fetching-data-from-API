@@ -1,0 +1,8 @@
+button{
+    font-size: 1.5rem;
+    background-color: hsl(104, 100%, 65%);
+    color: hsl(0, 0%, 16%);
+}
+#pokemonName{
+    font-size: 1.5rem;
+}
